@@ -1,4 +1,3 @@
-process.env.MONGODB_URI = "mongodb://<dbuser>:<dbpassword>@ds149742.mlab.com:49742/mongoose-for-node"
 
 var mongoose = require('mongoose');
 
